@@ -11,7 +11,8 @@ This project aims to analyze whether NBA players contracts are overpaid or under
 - 3.) Download the githib repository by downloading in the zip from GitHub
 - 4.) Check where the downloaded zip is located
 - 5.) Move the zip file to a folder you can easily access
-- 6.) Navigate to the folder and copy the address of the project and then type "cd" then copied address
+- 6.) Then click extract all
+- 7.) Navigate to the main folder and copy the address of the project and then type "cd" then copied address
 
 ## Create a Virtual Environment
 - 1.) Create the virtual environment by typing in the command prompt "python -m venv venv"
