@@ -21,11 +21,11 @@ This project aims to analyze whether NBA players contracts are overpaid or under
 - 4.) When you are done working type "deactivate" in the command prompt
 
 ## Data Folders
--"data/raw/" contains the raw dataset of the salaries and stats of the players
--"data/processed/" contains the cleaned and merged dataset of salaries and stats for each player
+- "data/raw/" contains the raw dataset of the salaries and stats of the players
+- "data/processed/" contains the cleaned and merged dataset of salaries and stats for each player
 
 ## Running the code
--1.) Once you finished the first steps you can type "python src/get_data.py" (This gets the data of the salaries and stats and merging them togther. Also gets the data into data/raw/)
--2.) Then type "python src/clean_data.py" (This cleans merged dataset while also putting it in data/processed/) 
--3.) Then type "python src/run_analysis.py" (Computes the new metrics of peformance, efficiency, expected salary and value)
--4.) Then type "python src/visualize_results.py" (Displays the visualizations of the scatterplot, bar charts, and histogram)
+- 1.) Once you finished the first steps you can type "python src/get_data.py" (This gets the data of the salaries and stats and merging them together. Also gets the data into data/raw/)
+- 2.) Then type "python src/clean_data.py" (This cleans merged dataset while also putting it in data/processed/) 
+- 3.) Then type "python src/run_analysis.py" (Computes the new metrics of performance, efficiency, expected salary and value)
+- 4.) Then type "python src/visualize_results.py" (Displays the visualizations of the scatterplot, bar charts, and histogram)
