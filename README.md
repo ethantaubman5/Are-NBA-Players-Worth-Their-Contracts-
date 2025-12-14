@@ -11,10 +11,10 @@ This project aims to analyze whether NBA players contracts are overpaid or under
 - 3.) Download the githib repository by downloading in the zip from github
 - 4.) Check where the downloaded zip is located
 - 5.) Move the zip file to a folder you can easily access
-- 6.) Naviagte to the folder and copy the address of the project and then type cd copied address
+- 6.) Naviagte to the folder and copy the address of the project and then type "cd" then copied address
 
 ## Create a Virtual Environment
-- 1.) Create the virtual environment by typing in the command prompt python -m venv venv
-- 2.) Activate the virtual enviroment by typing in the command prompt venv\Scripts\activate
-- 3.) Install the required packages by typing in the command prompt pip install -r requirements.txt
-- 4.) When you are done working type deactivate in the command prompt 
+- 1.) Create the virtual environment by typing in the command prompt "python -m venv venv"
+- 2.) Activate the virtual enviroment by typing in the command prompt "venv\Scripts\activate"
+- 3.) Install the required packages by typing in the command prompt "pip install -r requirements.txt"
+- 4.) When you are done working type "deactivate" in the command prompt 
