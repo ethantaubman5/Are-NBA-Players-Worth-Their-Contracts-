@@ -29,3 +29,4 @@ This project aims to analyze whether NBA players contracts are overpaid or under
 - 2.) Then type "python src/clean_data.py" (This cleans merged dataset while also putting it in data/processed/) 
 - 3.) Then type "python src/run_analysis.py" (Computes the new metrics of performance, efficiency, expected salary and value)
 - 4.) Then type "python src/visualize_results.py" (Displays the visualizations of the scatterplot, bar charts, and histogram)
+- 5.) Click the X button on top of the visualization to go to the next visualization (there are only 6 graphs)
